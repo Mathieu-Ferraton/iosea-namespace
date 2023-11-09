@@ -1,24 +1,24 @@
 [submodule "extstore"]
 	path = extstore
-	url = https://github.com/io-sea/extstore.git 
-	branch = next
+	url = https://github.com/Mathieu-Ferraton/extstore.git 
+	branch = iosea-dev
 [submodule "kvsal"]
 	path = kvsal
-	url = https://github.com/io-sea/kvsal.git 
-	branch = next
+	url = https://github.com/Mathieu-Ferraton/kvsal.git 
+	branch = iosea-dev
 [submodule "kvsns-base"]
 	path = kvsns-base
-	url = https://github.com/io-sea/kvsns-base.git 
-	branch = next
+	url = https://github.com/Mathieu-Ferraton/kvsns-base.git 
+	branch = iosea-dev
 [submodule "libiosea-hash"]
 	path = libiosea-hash
-	url = https://github.com/io-sea/libiosea-hash.git 
-	branch = next
+	url = https://github.com/Mathieu-Ferraton/libiosea-hash.git 
+	branch = iosea-dev
 [submodule "libm0common"]
 	path = libm0common
-	url = https://github.com/io-sea/libm0common.git 
-	branch = next
+	url = https://github.com/Mathieu-Ferraton/libm0common.git 
+	branch = iosea-dev
 [submodule "GRH"]
 	path = GRH
-	url = https://github.com/io-sea/GRH.git 
-	branch = next
+	url = https://github.com/Mathieu-Ferraton/GRH.git 
+	branch = iosea-dev
